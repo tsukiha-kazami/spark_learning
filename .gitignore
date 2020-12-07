@@ -10,7 +10,6 @@ gen
 
 metastore_db/
 csv/
-/target
 target/
 ### Example user template template
 ### Example user template
